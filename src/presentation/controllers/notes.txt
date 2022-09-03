@@ -1,5 +1,0 @@
-[Interface]
-se não ter uma interface, no momento da compilação, não será disparado um erro
-quando esse método for chamado de forma errada.
-com a interface, o erro será disparado na compilação
----
